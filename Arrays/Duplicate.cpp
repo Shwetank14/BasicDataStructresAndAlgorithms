@@ -7,7 +7,6 @@ using namespace std;
 
 int main(){
 
-
     int arr[] = {2,3,4,3,1,4,8,2,5,6,7,4,8,11};
     int n = sizeof(arr)/sizeof(int);
     map<int,int> m;
