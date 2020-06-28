@@ -21,7 +21,7 @@ int main(){
     vector<pair<int,int>> v;
     int n;cin>>n;
 
-    for(int i=0;i<n;i++){           // Entering the pair int the vector of pair of integers
+    for(int i=0;i<n;i++){           // Entering the intervals int the vector of pair of integers
         cin>>p.first>>p.second;
         v.push_back({p.first,p.second});
     }
